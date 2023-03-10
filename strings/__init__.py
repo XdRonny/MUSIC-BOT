@@ -1,4 +1,5 @@
- 
+#change language file
+#LegendBot
 
 import os
 import sys
