@@ -1,6 +1,6 @@
 .env
 .cache
-Yukkilogs.txt
+Musiclogs.txt
 .DS_Store
 *.session
 raw_files/
